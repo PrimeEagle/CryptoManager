@@ -1,0 +1,6 @@
+create virtual folder in IIS: "CryptoManager"
+right-click on virtual folder, "Properties"
+"Create" button to create application
+set permissions to include "write"
+
+In the windows folder where the .aspx files are, set permissions on the folder to allow full access to the localmachine/ASPNET account
